@@ -1,0 +1,5 @@
+Student: Silvano
+Student ID: TUPM-26-7960
+Seed Digit: 0
+ID Sum: 30
+Verification Value: 210

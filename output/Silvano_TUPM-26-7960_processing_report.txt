@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+-------------------------------------
+Last Name: Silvano
+Student ID: TUPM-26-7960
+Seed Digit: 0
+ID Sum: 30
+Verification Value: 210
+Dataset Sample Size: 80
+Valid Records: 80
+Average Global Active Power: 3.929
+JSON File: Silvano_TUPM-26-7960_record.json
+Backup File: Silvano_TUPM-26-7960_record.csv
